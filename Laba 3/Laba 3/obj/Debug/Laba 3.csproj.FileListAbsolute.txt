@@ -1,0 +1,8 @@
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\bin\Debug\Laba 3.exe.config
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\bin\Debug\Laba 3.exe
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\bin\Debug\Laba 3.pdb
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\obj\Debug\Laba 3.csproj.AssemblyReference.cache
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\obj\Debug\Laba 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\obj\Debug\Laba 3.csproj.CoreCompileInputs.cache
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\obj\Debug\Laba 3.exe
+C:\Users\100nout.by\OneDrive\Рабочий стол\Здания для Илюхи\Lab 3\Laba 3\Laba 3\obj\Debug\Laba 3.pdb
